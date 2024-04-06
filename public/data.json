@@ -1,0 +1,178 @@
+{
+  "header": {
+    "id": "1",
+    "logo": "logo.png",
+    "links": [
+      {
+        "id": 1,
+        "url": "#",
+        "text": "Personal"
+      },
+      {
+        "id": 2,
+        "url": "#",
+        "text": "Business"
+      },
+      {
+        "id": 3,
+        "url": "#",
+        "text": "Developer"
+      },
+      {
+        "id": 4,
+        "url": "#",
+        "text": "Help"
+      }
+    ],
+    "login": "Log In",
+    "signup": "Sign Up"
+  },
+  "cards": [
+    {
+      "icon": "https://img.icons8.com/plasticine/100/headset.png",
+      "cardHeading": "Resolve Center",
+      "description": "Resolve transactions or account issues"
+    },
+    {
+      "icon": "https://img.icons8.com/plasticine/100/business-group.png",
+      "cardHeading": "Ask the Community",
+      "description": "Find answer or join the conversation"
+    },
+    {
+      "icon": "https://img.icons8.com/plasticine/100/imessage.png",
+      "cardHeading": "Messaging Center",
+      "description": "Send,recieve, and view your PayPal message"
+    }
+  ],
+  "footer": [
+    {
+      "footerTopLinks": [
+        {
+          "id": 1,
+          "url": "/",
+          "text": "Help"
+        },
+        {
+          "id": 2,
+          "url": "/",
+          "text": "Contact"
+        },
+        {
+          "id": 3,
+          "url": "/",
+          "text": "Fees"
+        },
+        {
+          "id": 4,
+          "url": "/",
+          "text": "Security"
+        },
+        {
+          "id": 5,
+          "url": "/",
+          "text": "Apps"
+        },
+        {
+          "id": 6,
+          "url": "/",
+          "text": "Shop"
+        },
+        {
+          "id": 7,
+          "url": "/",
+          "text": "Enterprise"
+        },
+        {
+          "id": 8,
+          "url": "/",
+          "text": "Partners"
+        }
+      ],
+      "logo": "footerIcon.png"
+    }
+  ],
+  "bottomFooter": [
+    {
+      "links": [
+        {
+          "id": 1,
+          "url": "/",
+          "text": "About"
+        },
+        {
+          "id": 2,
+          "url": "/",
+          "text": "Newsroom"
+        },
+        {
+          "id": 3,
+          "url": "/",
+          "text": "Jobs"
+        },
+        {
+          "id": 4,
+          "url": "/",
+          "text": "Investor Relations"
+        },
+        {
+          "id": 5,
+          "url": "/",
+          "text": "Values in Action"
+        },
+        {
+          "id": 6,
+          "url": "/",
+          "text": "Public policy"
+        },
+        {
+          "id": 7,
+          "url": "/",
+          "text": "Sitemap"
+        }
+      ],
+      "linksTwo": [
+        {
+          "id": 1,
+          "url": "/",
+          "text": "About"
+        },
+        {
+          "id": 2,
+          "url": "/",
+          "text": "Newsroom"
+        },
+        {
+          "id": 3,
+          "url": "/",
+          "text": "Jobs"
+        },
+        {
+          "id": 4,
+          "url": "/",
+          "text": "Investor Relations"
+        }
+      ]
+    }
+    
+  ],
+  
+    "helpSection": [
+      {
+        "icon": "https://img.icons8.com/ios-filled/50/000000/people-working-together.png",
+        "title": "Community Forum",
+        "description": "Find answers or join the conversation"
+      },
+      
+      {
+        "icon": "https:img.icons8.com/ios-filled/50/handshake",
+        "title": "Resolution Center",
+        "description": "Resolve transaction or account issues"
+      },
+      {
+        "icon": "https://img.icons8.com/ios-filled/50/chat-message",
+        "title": "Contact us",
+        "description": "Contact customer Service"
+      }
+    ]
+  
+}
